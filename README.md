@@ -22,7 +22,7 @@ This is a console-based Super Shop Billing System implemented in C++. The applic
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Akram0007/Super-Shop-Billing-System.git
+    git clone https://github.com/akramul15/Super-Shop-Billing-System.git
     ```
 
 2. Navigate to the project directory:
@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/Akram0007/Super-Shop-Billing-System).
+For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/akramul15/Super-Shop-Billing-System).
