@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/akramul15/Super-Shop-Billing-System).
+For any questions or feedback, please contact [Md. Akramul Islam](https://github.com/akramul15/Super-Shop-Billing-System).
